@@ -4,6 +4,6 @@ go 1.22
 
 require (
 	github.com/ebitengine/purego v0.7.1
-	github.com/tetratelabs/wazero v1.7.3
+	github.com/tetratelabs/wazero v1.8.0
 	golang.org/x/sys v0.21.0
 )
