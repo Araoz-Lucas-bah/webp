@@ -1,6 +1,6 @@
-module github.com/gen2brain/webp
+module github.com/Araoz-Lucas-bah/webp
 
-go 1.22
+go 1.23.0
 
 require (
 	github.com/ebitengine/purego v0.7.1
